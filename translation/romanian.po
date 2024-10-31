@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultiUpload ImageSchack v1.0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ovidiu <ovidiu@pacura.ru>\n"
+"Language-Team: Jessai, Cori, Youte, Peggy <http://salledewordpress.fr.nf>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: xmlapiformtravaiokl.php:6
+#: xmlapiformtravaiokl.php:18
+#: xmlapiformtravaiokl.php:30
+#: xmlapiformtravaiokl.php:42
+#: xmlapiformtravaiokl.php:54
+#: xmlapiformtravaiokl.php:66
+#: xmlapiformtravaiokl.php:78
+#: xmlapiformtravaiokl.php:90
+msgid "Taille Image?"
+msgstr "Marimea pozei?"
+
+#: xmlapiformtravaiokl.php:14
+#: xmlapiformtravaiokl.php:26
+#: xmlapiformtravaiokl.php:38
+#: xmlapiformtravaiokl.php:50
+#: xmlapiformtravaiokl.php:62
+#: xmlapiformtravaiokl.php:74
+#: xmlapiformtravaiokl.php:86
+#: xmlapiformtravaiokl.php:98
+msgid "Taille mini?"
+msgstr "Marimea mijlocie?"
+
+#: xmlapiformtravaiokl.php:100
+msgid "Envoyer"
+msgstr "Trimite"
+
+#: upload_imageshack.php:14
+msgid "Upload vers ImageShack"
+msgstr "Uploadeaza pe ImageShack"
+
